@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test data driven" time="8.656" tests="1" failures="0" errors="0">
+   <testsuite name="Test data driven" tests="1" failures="0" errors="0" time="8.656" skipped="0" timestamp="25-08-2024T16:39:50" hostname="nguyenthithanhmy - 192.168.4.105" id="Test Suites/Test data driven">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/nguyenthithanhmy/git/katalon-study-fee/Reports/20240825_163947/Test data driven/20240825_163948"/>
+         <property name="logFiles" value="/Users/nguyenthithanhmy/git/katalon-study-fee/Reports/20240825_163947/Test data driven/20240825_163948/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nguyenthithanhmy - 192.168.4.105"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.4.105"/>
+         <property name="sessionId" value="5d228cd7aee8d2e599ac9c3a5fdb2cc9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Log in" time="8.569" classname="Test Cases/Log in" status="PASSED">
+         <system-out><![CDATA[25-08-2024T16:39:50 - [TEST_CASE][PASSED] - Test Cases/Log in: Test Cases/Log in
+
+25-08-2024T16:39:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-08-2024T16:39:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-08-2024T16:39:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-08-2024T16:39:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-08-2024T16:39:52 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+25-08-2024T16:39:55 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+25-08-2024T16:39:55 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-08-2024T16:39:56 - [MESSAGE][PASSED] - Current window maximized
+
+25-08-2024T16:39:56 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/btn Make Appointment' is clicked on
+
+25-08-2024T16:39:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn Make Appointment' is clicked on
+
+25-08-2024T16:39:56 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/input_Username"), username): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username'
+
+25-08-2024T16:39:57 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username'
+
+25-08-2024T16:39:57 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/input_Password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password'
+
+25-08-2024T16:39:58 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password'
+
+25-08-2024T16:39:58 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/btn_Login' is clicked on
+
+25-08-2024T16:39:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn_Login' is clicked on
+
+25-08-2024T16:39:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-08-2024T16:39:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-08-2024T16:39:50 - [TEST_SUITE][PASSED] - Test data driven: Test Cases/Log in]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

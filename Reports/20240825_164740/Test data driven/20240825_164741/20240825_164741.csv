@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test data driven,Chrome 127.0.0.0,,,25-08-2024 16:47:43,25-08-2024 16:48:09,26.193s,PASSED
+,,,,,,,
+Test Cases/Log in,Chrome 127.0.0.0,,,25-08-2024 16:47:43,25-08-2024 16:47:53,9.810s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,25-08-2024 16:47:43,25-08-2024 16:47:45,1.749s,PASSED
+navigateToUrl(url),Chrome 127.0.0.0,,,25-08-2024 16:47:45,25-08-2024 16:47:50,4.377s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,25-08-2024 16:47:50,25-08-2024 16:47:50,0.341s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn Make Appointment""))",Chrome 127.0.0.0,,,25-08-2024 16:47:50,25-08-2024 16:47:51,0.773s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username""), username)",Chrome 127.0.0.0,,,25-08-2024 16:47:51,25-08-2024 16:47:51,0.725s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password""), password)",Chrome 127.0.0.0,,,25-08-2024 16:47:51,25-08-2024 16:47:52,0.518s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn_Login""))",Chrome 127.0.0.0,,,25-08-2024 16:47:52,25-08-2024 16:47:53,1.029s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,25-08-2024 16:47:53,25-08-2024 16:47:53,0.106s,PASSED
+,,,,,,,
+Test Cases/Log in,Chrome 127.0.0.0,,,25-08-2024 16:47:53,25-08-2024 16:48:01,8.261s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,25-08-2024 16:47:53,25-08-2024 16:47:54,0.828s,PASSED
+navigateToUrl(url),Chrome 127.0.0.0,,,25-08-2024 16:47:54,25-08-2024 16:47:58,3.932s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,25-08-2024 16:47:58,25-08-2024 16:47:58,0.322s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn Make Appointment""))",Chrome 127.0.0.0,,,25-08-2024 16:47:58,25-08-2024 16:47:59,0.895s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username""), username)",Chrome 127.0.0.0,,,25-08-2024 16:47:59,25-08-2024 16:48:00,0.706s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password""), password)",Chrome 127.0.0.0,,,25-08-2024 16:48:00,25-08-2024 16:48:00,0.511s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn_Login""))",Chrome 127.0.0.0,,,25-08-2024 16:48:00,25-08-2024 16:48:01,0.946s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,25-08-2024 16:48:01,25-08-2024 16:48:01,0.099s,PASSED
+,,,,,,,
+Test Cases/Log in,Chrome 127.0.0.0,,,25-08-2024 16:48:01,25-08-2024 16:48:09,7.998s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,25-08-2024 16:48:01,25-08-2024 16:48:02,0.773s,PASSED
+navigateToUrl(url),Chrome 127.0.0.0,,,25-08-2024 16:48:02,25-08-2024 16:48:06,3.910s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,25-08-2024 16:48:06,25-08-2024 16:48:06,0.328s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn Make Appointment""))",Chrome 127.0.0.0,,,25-08-2024 16:48:06,25-08-2024 16:48:07,0.689s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username""), username)",Chrome 127.0.0.0,,,25-08-2024 16:48:07,25-08-2024 16:48:08,0.707s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password""), password)",Chrome 127.0.0.0,,,25-08-2024 16:48:08,25-08-2024 16:48:08,0.510s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/btn_Login""))",Chrome 127.0.0.0,,,25-08-2024 16:48:08,25-08-2024 16:48:09,0.940s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,25-08-2024 16:48:09,25-08-2024 16:48:09,0.121s,PASSED

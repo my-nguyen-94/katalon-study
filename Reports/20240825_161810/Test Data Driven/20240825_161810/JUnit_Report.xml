@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Data Driven" time="10.227" tests="1" failures="0" errors="0">
+   <testsuite name="Test Data Driven" tests="1" failures="0" errors="0" time="10.227" skipped="0" timestamp="25-08-2024T16:18:12" hostname="nguyenthithanhmy - 192.168.4.105" id="Test Suites/Test Data Driven">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/nguyenthithanhmy/git/katalon-study-fee/Reports/20240825_161810/Test Data Driven/20240825_161810"/>
+         <property name="logFiles" value="/Users/nguyenthithanhmy/git/katalon-study-fee/Reports/20240825_161810/Test Data Driven/20240825_161810/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nguyenthithanhmy - 192.168.4.105"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.4.105"/>
+         <property name="sessionId" value="9dab5ea9cc50270ed8499c1cbde2350b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Log in" time="10.141" classname="Test Cases/Log in" status="PASSED">
+         <system-out><![CDATA[25-08-2024T16:18:12 - [TEST_CASE][PASSED] - Test Cases/Log in: Test Cases/Log in
+
+25-08-2024T16:18:12 - [TEST_STEP][PASSED] - verifyCheckpoint(findCheckpoint("Checkpoints/Checkpoint"), false): Checkpoint data and Source data are matched
+
+25-08-2024T16:18:13 - [MESSAGE][PASSED] - Checkpoint data and Source data are matched
+
+25-08-2024T16:18:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-08-2024T16:18:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-08-2024T16:18:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-08-2024T16:18:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-08-2024T16:18:14 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+25-08-2024T16:18:19 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+25-08-2024T16:18:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-08-2024T16:18:19 - [MESSAGE][PASSED] - Current window maximized
+
+25-08-2024T16:18:19 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/btn Make Appointment' is clicked on
+
+25-08-2024T16:18:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn Make Appointment' is clicked on
+
+25-08-2024T16:18:20 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/input_Username"), username): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username'
+
+25-08-2024T16:18:21 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username'
+
+25-08-2024T16:18:21 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/input_Password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password'
+
+25-08-2024T16:18:21 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password'
+
+25-08-2024T16:18:21 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/btn_Login' is clicked on
+
+25-08-2024T16:18:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn_Login' is clicked on
+
+25-08-2024T16:18:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-08-2024T16:18:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-08-2024T16:18:12 - [TEST_SUITE][PASSED] - Test Data Driven: Test Cases/Log in]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

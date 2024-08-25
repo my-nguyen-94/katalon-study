@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>LogIn data</name>
+   <name>Test data</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>14b98fb4-0fd0-4132-bd95-a5214ebe3e99</dataFileGUID>
+   <dataFileGUID>58d082cf-6e1a-4d83-9af7-1c08412bb1c3</dataFileGUID>
    <dataSourceUrl>/Users/nguyenthithanhmy/Downloads/login acc.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>

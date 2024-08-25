@@ -17,19 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
-
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl(url)
 
 WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_CURA Healthcare Service/btn Make Appointment'))
 
-WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Username'), GlobalVariable.username)
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Username'), username)
 
-WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Password'), GlobalVariable.password)
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/input_Password'), password)
 
 WebUI.click(findTestObject('Page_CURA Healthcare Service/btn_Login'))
 
