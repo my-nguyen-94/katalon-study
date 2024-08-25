@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2058ee42-8a45-44df-89a1-d0bf69bf742c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>830ea201-8772-48f5-9075-d5eaee471484</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d74868b6-7ca0-44e8-ba80-4c9c2f22cd43</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'this is my comment'</defaultValue>
+      <description></description>
+      <id>830ea201-8772-48f5-9075-d5eaee471484</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+   <variable>
+      <defaultValue>'22/10/2025'</defaultValue>
+      <description></description>
+      <id>d74868b6-7ca0-44e8-ba80-4c9c2f22cd43</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+</TestCaseEntity>

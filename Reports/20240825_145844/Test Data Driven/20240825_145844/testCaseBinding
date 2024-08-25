@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Log in","testCaseId":"Test Cases/Log in","iterationVariableName":"","bindedValues":{"password":"\u0027ThisIsNotAPassword\u0027","username":"\u0027John Doe\u0027"}}
+{"testCaseName":"Test Cases/Log in","testCaseId":"Test Cases/Log in","iterationVariableName":"","bindedValues":{"password":"\u0027123445\u0027","username":"\u0027Thanh My\u0027"}}
+{"testCaseName":"Test Cases/Log in","testCaseId":"Test Cases/Log in","iterationVariableName":"","bindedValues":{"password":"\u002723455\u0027","username":"\u0027Gia Huy\u0027"}}

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>default</name>
+   <name>Dev env</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
-      <name>URL</name>
+      <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'John Doe'</initValue>
-      <name>USERNAME</name>
+      <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'ThisIsNotAPassword'</initValue>
-      <name>PASSWORD</name>
+      <name>password</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

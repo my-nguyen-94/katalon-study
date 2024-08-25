@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2646D8ECF80871AA3B2944ADA816A88E",
+  "keywordClasses": [
+    {
+      "name": "pagekage1.MyKeyword",
+      "keywordMethods": [
+        {
+          "name": "Login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
