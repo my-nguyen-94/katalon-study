@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Video Grid</name>
+   <tag></tag>
+   <elementGuidId>b8ae3d52-3227-40f1-a1a1-2a03eff5c0a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[5]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;No result with filter, please change filter to get other result. Videos Sort byM&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d934bbce-ff22-4144-9f0f-8ad07c310625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-main</value>
+      <webElementGuid>9cd4c7ad-52b5-4f51-aeeb-af7b78425105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No result with filter, please change filter to get other result. Videos Sort byMost recent Most Popular   AnhVTK2 246-p6 02 Padlock  AnhVTK2 246-p6 02 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going    anhvtk2 2151 Padlock  anhvtk2 2151     test 2054 Padlock  test 2054 This is Video Description. Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    MyNTT2 inspire home video 1 abc Padlock  MyNTT2 inspire home video 1 abc     ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;'&lt;>?,./-+ Padlock  ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;'&lt;>?,./-+     Phuonglt test page links M2-2054 Padlock  Phuonglt test page links M2-2054 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    load more</value>
+      <webElementGuid>4fad988f-2d26-4275-b5a8-28073f4af37f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[5]/div[1]/div[1]/div[@class=&quot;content-library-landing curio-home&quot;]/div[@class=&quot;content-main&quot;]</value>
+      <webElementGuid>204e611b-4948-4c6a-ad7e-2cd0fb09aa91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[5]/div/div/div/div[2]</value>
+      <webElementGuid>1061b470-e0ef-4a67-b388-6fe476a6b19a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[2]/following::div[1]</value>
+      <webElementGuid>cc95f94f-845e-4bcb-8883-6cfcec3d1e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[9]/following::div[2]</value>
+      <webElementGuid>7d90cefe-f94a-43c4-86c7-6ee57c678885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]</value>
+      <webElementGuid>71d86793-9215-4688-9cae-674a67bd2a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;No result with filter, please change filter to get other result. Videos Sort byMost recent Most Popular   AnhVTK2 246-p6 02 Padlock  AnhVTK2 246-p6 02 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going    anhvtk2 2151 Padlock  anhvtk2 2151     test 2054 Padlock  test 2054 This is Video Description. Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    MyNTT2 inspire home video 1 abc Padlock  MyNTT2 inspire home video 1 abc     ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;&quot; , &quot;'&quot; , &quot;&lt;>?,./-+ Padlock  ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;&quot; , &quot;'&quot; , &quot;&lt;>?,./-+     Phuonglt test page links M2-2054 Padlock  Phuonglt test page links M2-2054 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    load more&quot;) or . = concat(&quot;No result with filter, please change filter to get other result. Videos Sort byMost recent Most Popular   AnhVTK2 246-p6 02 Padlock  AnhVTK2 246-p6 02 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going    anhvtk2 2151 Padlock  anhvtk2 2151     test 2054 Padlock  test 2054 This is Video Description. Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    MyNTT2 inspire home video 1 abc Padlock  MyNTT2 inspire home video 1 abc     ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;&quot; , &quot;'&quot; , &quot;&lt;>?,./-+ Padlock  ~!@#$%^&amp;()_+`-={}ƠƯơư[]:&quot;|;&quot; , &quot;'&quot; , &quot;&lt;>?,./-+     Phuonglt test page links M2-2054 Padlock  Phuonglt test page links M2-2054 Join us as we sit down with Dennis and Ben Adrian to discuss their 2 main takeaways from the 2022 Sydney Seminar and how they are going to go about implementing those takeaways in their own business.    load more&quot;))]</value>
+      <webElementGuid>45befa4f-8691-45e8-b5db-0c6bdbc5165d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

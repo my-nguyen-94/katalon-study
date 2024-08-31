@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_search_topic_section</name>
+   <tag></tag>
+   <elementGuidId>8751c9bd-7755-40a0-b1ae-9fef6d5f4a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[5]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-via-topic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Search via topic: Example topic test train trainer AnhVTK2 anhvtk2 inspire Busin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f1b87ed-c607-4b60-9715-699f5dc4bdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-via-topic</value>
+      <webElementGuid>771ca1bc-ab2f-4e93-82aa-94776353c430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search via topic: Example topic test train trainer AnhVTK2 anhvtk2 inspire Business &amp; Marketing Home &amp; Vision Cat &amp; Dog myntt2 inspire-home search new1 new2 new3 </value>
+      <webElementGuid>5c9fb4d1-11fa-4ddd-b3ca-f2626caef221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[5]/div[1]/div[@class=&quot;widget block block-static-block&quot;]/div[1]/div[1]/div[@class=&quot;obc-search-block curio_home_portal_search&quot;]/div[@class=&quot;search-via-topic&quot;]</value>
+      <webElementGuid>3802c8bc-8e98-4624-a5d4-139fc0ca1814</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>0e40eee9-12f4-47b0-a063-f266033bec77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[1]</value>
+      <webElementGuid>c588e758-e36c-4a5c-a614-92c14c55a13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspire Home search portal test search'])[1]/following::div[1]</value>
+      <webElementGuid>7984b91a-4576-42f1-9297-cb3d3cff3ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>730733d7-34a4-4a4a-9644-9a12b894fb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search via topic: Example topic test train trainer AnhVTK2 anhvtk2 inspire Business &amp; Marketing Home &amp; Vision Cat &amp; Dog myntt2 inspire-home search new1 new2 new3 ' or . = 'Search via topic: Example topic test train trainer AnhVTK2 anhvtk2 inspire Business &amp; Marketing Home &amp; Vision Cat &amp; Dog myntt2 inspire-home search new1 new2 new3 ')]</value>
+      <webElementGuid>11233f28-2fab-4c0b-9c36-e04f138adcce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

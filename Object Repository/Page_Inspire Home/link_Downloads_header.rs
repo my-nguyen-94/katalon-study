@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Downloads_header</name>
+   <tag></tag>
+   <elementGuidId>be8635a1-b264-4580-8118-10f855df6004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vesitem-1064117250052951864491510']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vesitem-1064117250052951864491510 > a.nav-anchor > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Downloads&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>172cb5c4-53ac-4f59-86c7-6ebcebe87c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Downloads</value>
+      <webElementGuid>7ab67d63-f2f0-4e84-8305-666c7c625df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header-top&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;curio-home-navigation-new background-image-menu&quot;]/div[@class=&quot;row-full-width-inner&quot;]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column obc-navigation-menu&quot;]/div[1]/div[@id=&quot;curio-home-menu-1725005295&quot;]/div[@class=&quot;navigation navitaion172500529566d17def78d64&quot;]/ul[@id=&quot;nav-curio-home-menu-172500529566d17def78d64&quot;]/li[@id=&quot;vesitem-1064117250052951864491510&quot;]/a[@class=&quot;nav-anchor&quot;]/span[1]</value>
+      <webElementGuid>78f02199-3825-44f0-9831-e3cc6e6ce548</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='vesitem-1064117250052951864491510']/a/span</value>
+      <webElementGuid>646b938f-5b25-4ebc-b76f-98a1348eae44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video library'])[1]/following::span[1]</value>
+      <webElementGuid>6438ef8a-6104-459e-8a9d-7278b63bceb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[4]/following::span[2]</value>
+      <webElementGuid>adbb1e1e-7507-4130-baea-653972b3d3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::span[1]</value>
+      <webElementGuid>4934ff7f-b2c9-4056-8006-664ed8ebc63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/preceding::span[2]</value>
+      <webElementGuid>17b2084a-350f-402a-9b32-4df90086016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Downloads']/parent::*</value>
+      <webElementGuid>74bc6de9-a2eb-45c2-9c22-b9d1acc6d34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/a/span</value>
+      <webElementGuid>29645dee-c7b5-4092-a186-26213e2354bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Downloads' or . = 'Downloads')]</value>
+      <webElementGuid>1f6d90e9-67d6-44a4-89d8-9de76d23eec3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

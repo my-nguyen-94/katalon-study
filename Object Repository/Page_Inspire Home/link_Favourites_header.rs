@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Favourites_header</name>
+   <tag></tag>
+   <elementGuidId>776619b1-9d33-4ab6-b650-7775721adf5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vesitem-1064717250052951060410193']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vesitem-1064717250052951060410193 > a.nav-anchor > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Favourites&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c95d8d2-c8bf-484a-a47f-24c970b2ca56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Favourites</value>
+      <webElementGuid>b490d3a0-678b-470d-b746-da75ec510adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header-top&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;curio-home-navigation-new background-image-menu&quot;]/div[@class=&quot;row-full-width-inner&quot;]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column obc-navigation-menu&quot;]/div[1]/div[@id=&quot;curio-home-menu-1725005295&quot;]/div[@class=&quot;navigation navitaion172500529566d17def78d64&quot;]/ul[@id=&quot;nav-curio-home-menu-172500529566d17def78d64&quot;]/li[@id=&quot;vesitem-1064717250052951060410193&quot;]/a[@class=&quot;nav-anchor&quot;]/span[1]</value>
+      <webElementGuid>84b6e27a-cfab-461e-bfe5-25a48aa296c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='vesitem-1064717250052951060410193']/a/span</value>
+      <webElementGuid>68a71364-b1f2-4687-a139-9d308e0993ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::span[1]</value>
+      <webElementGuid>2a925117-f016-465a-9615-3f832c4a6e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/following::span[2]</value>
+      <webElementGuid>491ba71d-84be-43f9-8eab-5b94c3a7d38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My videos'])[1]/preceding::span[1]</value>
+      <webElementGuid>cb958d4b-2a64-4bc6-81ef-14d494ec2b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspire vision'])[1]/preceding::span[2]</value>
+      <webElementGuid>432a1340-9e46-4ec2-b481-efe321707e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Favourites']/parent::*</value>
+      <webElementGuid>d298e209-a32e-4bee-9534-89149ef04164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a/span</value>
+      <webElementGuid>7eb11a21-1e9b-4e2d-b17c-7e281f8c7948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Favourites' or . = 'Favourites')]</value>
+      <webElementGuid>d53f50d4-d459-46ef-9372-b59451e36b67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

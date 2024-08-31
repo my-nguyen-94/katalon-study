@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Inspire vision_header</name>
+   <tag></tag>
+   <elementGuidId>b304c174-0a36-44b2-8ec0-8e27f7acf7eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vesitem-1065317250052951310232699']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vesitem-1065317250052951310232699 > a.nav-anchor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Inspire vision&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f24cd385-4892-4e18-be95-8c6135f7d577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://mcdev.ubteam.co.uk/inspire-vision</value>
+      <webElementGuid>77ff122c-5e81-409b-9657-fa1d6017e30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Inspire vision</value>
+      <webElementGuid>1f5acd28-d804-4c03-9e66-79366b805cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>bed206c7-a2a2-457e-addc-33f3790d3329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hover-color</name>
+      <type>Main</type>
+      <value>#ffffff</value>
+      <webElementGuid>b7fadbcc-ba31-488e-b5cb-f3ef9b73fcaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hover-bgcolor</name>
+      <type>Main</type>
+      <value>#A38C80</value>
+      <webElementGuid>d65f77a9-de41-471d-a384-8161cda4124f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-color</name>
+      <type>Main</type>
+      <value>#59463B</value>
+      <webElementGuid>9d6fbe71-3fa1-4b7b-9356-08fb5b6d82dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> nav-anchor</value>
+      <webElementGuid>a7eec9ab-a59c-44c4-9285-1521dd013770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inspire vision</value>
+      <webElementGuid>aa60da19-2ad7-413c-999f-b3027560cdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header-top&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;curio-home-navigation-new background-image-menu&quot;]/div[@class=&quot;row-full-width-inner&quot;]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column obc-navigation-menu&quot;]/div[1]/div[@id=&quot;curio-home-menu-1725005295&quot;]/div[@class=&quot;navigation navitaion172500529566d17def78d64&quot;]/ul[@id=&quot;nav-curio-home-menu-172500529566d17def78d64&quot;]/li[@id=&quot;vesitem-1065317250052951310232699&quot;]/a[@class=&quot;nav-anchor&quot;]</value>
+      <webElementGuid>a3aac19d-86ee-4624-b57c-ee5706b535c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='vesitem-1065317250052951310232699']/a</value>
+      <webElementGuid>bdd16395-6111-4376-aff6-d02e974fbbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My videos'])[1]/following::a[1]</value>
+      <webElementGuid>ba9ff3db-67c5-4313-9806-07c664e401f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/following::a[2]</value>
+      <webElementGuid>3da92a14-c758-4420-bd29-c2c44780271e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Index'])[1]/preceding::a[1]</value>
+      <webElementGuid>09c8178c-b7e9-42e9-9761-77af2557c290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://mcdev.ubteam.co.uk/inspire-vision')]</value>
+      <webElementGuid>b0aa03be-5338-4964-b706-3d117f8c3d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a</value>
+      <webElementGuid>5410a126-6936-43c5-ba06-07f94e9094e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://mcdev.ubteam.co.uk/inspire-vision' and @title = 'Inspire vision' and (text() = 'Inspire vision' or . = 'Inspire vision')]</value>
+      <webElementGuid>fcb26876-99f5-4fc3-b07e-2bc24d440bec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

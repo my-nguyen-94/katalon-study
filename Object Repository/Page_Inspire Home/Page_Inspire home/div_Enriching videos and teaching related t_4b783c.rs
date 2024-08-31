@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enriching videos and teaching related t_4b783c</name>
+   <tag></tag>
+   <elementGuidId>cd315d87-c440-45d6-8353-8d481d77e474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[7]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.curio-portal-banner > div.pagebuilder-column-group</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.curio-portal-banner > .pagebuilder-column-group</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe021313-c08b-4cb9-84b3-ab4a47546aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pagebuilder-column-group</value>
+      <webElementGuid>6ebd8b69-fc21-4183-a39f-020d1ce9c848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content-type</name>
+      <type>Main</type>
+      <value>column-group</value>
+      <webElementGuid>c63082ed-f49f-4540-9047-b2b69dceedc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-grid-size</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>0e594fbe-eb6f-4956-8766-c0a647b0b711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>56ef68fa-a3fa-4eee-a471-f05c30a9c6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Enriching videos and teaching related to the lives of our Leaders.Enter</value>
+      <webElementGuid>9f6a7160-ecf0-4a1f-9528-e9dd5a53675d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[7]/div[1]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;curio-portal-banner&quot;]/div[@class=&quot;pagebuilder-column-group&quot;]</value>
+      <webElementGuid>e3a098e8-7d19-4f91-bb7a-fc91e961b161</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[7]/div/div/div/div</value>
+      <webElementGuid>a97084ef-1334-4e6c-b227-7a6fd3add75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MyNTT2 Test 393 video inspire home. dep nhat'])[2]/following::div[6]</value>
+      <webElementGuid>1b0ee514-9c01-489c-8bb6-95b722eabc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Padlock'])[1]/following::div[7]</value>
+      <webElementGuid>b1c9a44d-6b7b-443d-81ef-c1dd5840aace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick of the week'])[1]/preceding::div[5]</value>
+      <webElementGuid>d5720cd0-a663-4285-8de6-21e2a78ac9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div</value>
+      <webElementGuid>c4339180-70c8-4caa-ab8f-897490211be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+Enriching videos and teaching related to the lives of our Leaders.Enter' or . = '
+Enriching videos and teaching related to the lives of our Leaders.Enter')]</value>
+      <webElementGuid>b885e8ed-cf9c-4c45-becc-ba9bfbde497c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

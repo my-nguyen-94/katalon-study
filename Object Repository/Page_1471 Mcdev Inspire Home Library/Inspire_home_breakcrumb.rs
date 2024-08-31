@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Inspire_home_breakcrumb</name>
+   <tag></tag>
+   <elementGuidId>6f194deb-ecc9-4933-b298-02084e0b097c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.items</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Inspire Home 1471 Mcdev Inspire Home Library&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>aa0bf043-3d65-40c5-99f6-346d9ae24a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>items</value>
+      <webElementGuid>2c257c28-8bec-4c2d-8bbc-e3cc6b8de744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Inspire Home   1471 Mcdev Inspire Home Library  </value>
+      <webElementGuid>58f97ae1-3097-41b3-a9c9-a6327225630b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;items&quot;]</value>
+      <webElementGuid>8d7bf177-0302-4ff9-88a1-2a0a93295c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/ul</value>
+      <webElementGuid>c0c85de0-44ad-4eaa-be6b-cc2c76a94cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspire vision'])[2]/following::ul[1]</value>
+      <webElementGuid>78706668-df11-47f8-bc0e-7a15d38d2fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My videos'])[2]/following::ul[1]</value>
+      <webElementGuid>2d2e0b7f-5325-4521-a537-f51dd43343a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inspire Home search portal test search'])[1]/preceding::ul[1]</value>
+      <webElementGuid>15d3853f-6870-41f9-a20a-43c2e7dc921c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul</value>
+      <webElementGuid>b548668a-6bc1-42c9-b212-5baaac063d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '  Inspire Home   1471 Mcdev Inspire Home Library  ' or . = '  Inspire Home   1471 Mcdev Inspire Home Library  ')]</value>
+      <webElementGuid>283aa6c7-c0ab-4cd3-97cb-75546d973162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

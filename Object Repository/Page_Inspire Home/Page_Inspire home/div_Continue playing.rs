@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue playing</name>
+   <tag></tag>
+   <elementGuidId>92519e05-ae12-4dab-8b23-2f9a78998f4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > div > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(8) > div > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6007d685-a4a3-4dbf-91a9-5f7b8ff62630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content-type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0ec9476c-88a3-41a1-af4d-27f73a6042d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-appearance</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>a8430f1c-380a-47e6-b0ab-960503a6a3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>45abf5fd-8aa8-40b8-86a7-5577cb32329c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Continue playing myntt2 edit MyNTT2 Test 393 video inspire home. dep nhat  PadlockMyNTT2 Test 393 video inspire home. dep nhat </value>
+      <webElementGuid>1d20864f-4d88-45e1-a7a9-21d190bfd9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[6]/div[1]/div[1]</value>
+      <webElementGuid>7ec7c856-7faa-47c9-88bd-45414bb94a7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[6]/div/div</value>
+      <webElementGuid>ce5806d8-2c2e-43e8-9ca4-220ecfca5af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='click here now'])[1]/following::div[3]</value>
+      <webElementGuid>1a334e70-8aaf-46e3-a258-da2c1f5e3f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new3'])[1]/following::div[3]</value>
+      <webElementGuid>444f5113-3a76-4357-8053-3a830492abfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>633c8471-e359-43d9-b5af-2384dd45aa84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Continue playing myntt2 edit MyNTT2 Test 393 video inspire home. dep nhat  PadlockMyNTT2 Test 393 video inspire home. dep nhat ' or . = '  Continue playing myntt2 edit MyNTT2 Test 393 video inspire home. dep nhat  PadlockMyNTT2 Test 393 video inspire home. dep nhat ')]</value>
+      <webElementGuid>2035d3ad-eb37-4abe-8df1-aca1506b48db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

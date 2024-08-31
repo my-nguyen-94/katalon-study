@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Inspire Vision</name>
+   <tag></tag>
+   <elementGuidId>708aa71c-9fc8-4f17-b9b4-0111247c0ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/div[3]/div/div/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.portal-footer-link > a.pagebuilder-button-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Inspire Vision&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c22473f6-634d-4844-a1d1-fa5629006cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pagebuilder-button-link</value>
+      <webElementGuid>79799f60-5021-46bd-b6a5-862ce1746ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspire-vision</value>
+      <webElementGuid>b196f6e8-9ab0-4ae5-a39b-a9bcfc132755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link-type</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>0be42bfb-f2fd-4363-b280-1f9adb3b55e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>cbae233a-342e-42bb-8501-afa33637446c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pb-style</name>
+      <type>Main</type>
+      <value>NYM4W41</value>
+      <webElementGuid>c9327334-60ef-44e7-a058-b78cc302e603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inspire Vision</value>
+      <webElementGuid>b2138f95-f06e-4e04-807b-8fa6bc06747e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-bottom&quot;]/div[@class=&quot;footer curio&quot;]/div[@class=&quot;portal-footer&quot;]/div[@class=&quot;row-full-width-inner&quot;]/div[@class=&quot;portal-footer-buttons&quot;]/div[@class=&quot;portal-footer-link&quot;]/a[@class=&quot;pagebuilder-button-link&quot;]</value>
+      <webElementGuid>c898d551-ef5d-4cb0-ba34-f62e267ca140</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[3]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>7c570485-ed33-45dc-ac15-e430ff4f2f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Videos'])[1]/following::a[1]</value>
+      <webElementGuid>53d3a0df-52cc-402d-83d6-14347e49351b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[3]/following::a[2]</value>
+      <webElementGuid>a9ffcd91-3393-4579-9e7d-70fea52cda83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::a[1]</value>
+      <webElementGuid>5a696565-4930-40f1-a0bb-976e2d0e4478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/inspire-vision')])[3]</value>
+      <webElementGuid>03d7dd77-e31d-4094-9761-476d196fa14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>a14058e3-9fac-48d1-ad2a-054b79f32046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/inspire-vision' and (text() = 'Inspire Vision' or . = 'Inspire Vision')]</value>
+      <webElementGuid>5b5dd4ea-9ed6-44f1-974b-8977a8a9a551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

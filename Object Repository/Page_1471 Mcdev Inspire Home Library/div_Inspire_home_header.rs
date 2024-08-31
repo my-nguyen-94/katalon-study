@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inspire_home_header</name>
+   <tag></tag>
+   <elementGuidId>eb77c47b-ddbf-447e-9ba2-a294f3ae587f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/div[2]/header[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.curio-home-navigation-new.background-image-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision Search In&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43cdbf31-ad63-40ae-8cf6-c101b9d2398f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>curio-home-navigation-new background-image-menu</value>
+      <webElementGuid>70904178-0b78-4fb7-995c-526ed1d71193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content-type</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>5290c46b-aed6-4c45-a5ac-7b162071ba12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-appearance</name>
+      <type>Main</type>
+      <value>full-width</value>
+      <webElementGuid>4d6c9e44-47f3-43fd-ac80-5643d42fa680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision Search IndexMenu   Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision </value>
+      <webElementGuid>1c7170fd-be0e-4944-b9f7-e3564bfc8fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header-top&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;curio-home-navigation-new background-image-menu&quot;]</value>
+      <webElementGuid>ca8b3691-c8fb-449e-856b-5e354f10c47d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[2]/header[2]/div/div</value>
+      <webElementGuid>0db7e2ad-145c-47ee-89f5-b388ebc524a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[3]/following::div[4]</value>
+      <webElementGuid>30bd87a1-c2bb-4e04-91b0-31eb190b43a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::div[4]</value>
+      <webElementGuid>371e320f-ce1d-4d14-ab17-3f97bec40e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header[2]/div/div</value>
+      <webElementGuid>e2d64e98-aa44-49a0-ab99-0b255306d623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision Search IndexMenu   Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision ' or . = '  Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision Search IndexMenu   Toggle Nav Video libraryDownloadsBlogFavouritesMy videosInspire vision ')]</value>
+      <webElementGuid>a5c694ff-098e-4817-bedd-b6fb2fdd57e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

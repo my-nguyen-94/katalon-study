@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Blog_header</name>
+   <tag></tag>
+   <elementGuidId>6c75d0a2-e0cc-4ad4-b577-d4c2af5b1aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='vesitem-1064417250052951938270942']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vesitem-1064417250052951938270942 > a.nav-anchor > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Blog&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1257489-4c91-469e-a382-04f0078ee2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blog</value>
+      <webElementGuid>cead7cfb-cc1f-4577-9658-475f0b2b09c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header-top&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;curio-home-navigation-new background-image-menu&quot;]/div[@class=&quot;row-full-width-inner&quot;]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column obc-navigation-menu&quot;]/div[1]/div[@id=&quot;curio-home-menu-1725005295&quot;]/div[@class=&quot;navigation navitaion172500529566d17def78d64&quot;]/ul[@id=&quot;nav-curio-home-menu-172500529566d17def78d64&quot;]/li[@id=&quot;vesitem-1064417250052951938270942&quot;]/a[@class=&quot;nav-anchor&quot;]/span[1]</value>
+      <webElementGuid>b0eb2bca-1e0c-4804-9286-6c7978a57a66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='vesitem-1064417250052951938270942']/a/span</value>
+      <webElementGuid>bdfe39ad-f21c-4f03-845d-9e30ef65e581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/following::span[1]</value>
+      <webElementGuid>b2c7cdd9-3f6e-4ee4-ae17-57e58eec8511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video library'])[1]/following::span[2]</value>
+      <webElementGuid>d5e8bac5-2290-4789-8b80-c10d19a3b4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/preceding::span[1]</value>
+      <webElementGuid>ae9db019-9104-497c-a17f-41d0e8e35fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My videos'])[1]/preceding::span[2]</value>
+      <webElementGuid>a38d059d-a27a-4039-bf7d-abdecb85425f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blog']/parent::*</value>
+      <webElementGuid>01c52efc-4d55-42e3-b539-e01f460b8ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a/span</value>
+      <webElementGuid>84ec24f2-16a1-4fcf-a908-122b2d4828de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Blog' or . = 'Blog')]</value>
+      <webElementGuid>b3c79a15-338c-4f42-9183-68a5517de883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

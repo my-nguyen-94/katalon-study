@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_accept_cookie</name>
+   <tag></tag>
+   <elementGuidId>fa99c350-cec1-4156-8a23-b1f0be1a07c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/aside/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.amgdprcookie-button.-allow.-save</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;ACCEPT ALL COOKIES&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26b5779f-5bd3-4822-b2ad-5237d3167b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>amgdprcookie-button -allow -save</value>
+      <webElementGuid>90f19fc2-c443-460c-b2c5-51fede7749f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-amgdprcookie-js</name>
+      <type>Main</type>
+      <value>accept</value>
+      <webElementGuid>03286fc1-3c62-4ba7-88d5-4414d8da3dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACCEPT ALL COOKIES</value>
+      <webElementGuid>b653135e-b2a2-4fa0-9f03-d090edadc7b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/aside[@class=&quot;amgdprjs-bar-template&quot;]/div[@class=&quot;modal-popup _show amgdprcookie-bar-container&quot;]/div[@class=&quot;amgdprcookie-bar-block&quot;]/div[@class=&quot;amgdprcookie-buttons-block&quot;]/button[@class=&quot;amgdprcookie-button -allow -save&quot;]</value>
+      <webElementGuid>ee9b9359-9aa4-4b18-820e-9a51c34b4483</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/aside/div/div/div[2]/button</value>
+      <webElementGuid>f1319ce1-bed2-40ed-91e1-891471fca8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/following::button[1]</value>
+      <webElementGuid>f343a922-a86b-4421-a57d-a189a7f2a862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
+      <webElementGuid>dbbaf4a2-4bb1-4a5d-8edd-b9265c704906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOM SETTINGS'])[1]/preceding::button[1]</value>
+      <webElementGuid>67ee015b-dcf1-47a0-a343-0c1e8989956e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::button[2]</value>
+      <webElementGuid>bcbc9022-54a1-4fb5-ab6d-562f8dbc11d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACCEPT ALL COOKIES']/parent::*</value>
+      <webElementGuid>caa6a56b-3419-4784-bf93-57cc8953d268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div[2]/button</value>
+      <webElementGuid>d4cb19bd-bfff-481f-915a-5736943e56cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'ACCEPT ALL COOKIES' or . = 'ACCEPT ALL COOKIES')]</value>
+      <webElementGuid>83151883-f821-47f6-8a28-a658dee0fe8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
